@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29219.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFPluginLoadProblem", "WPFPluginLoadProblem\WPFPluginLoadProblem.csproj", "{58F5BA2C-8905-463D-B7E0-9AF12368E475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstPlugin", "FirstPlugin\FirstPlugin.csproj", "{29AE700A-194C-4107-ADBC-618CB67F0440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBase", "PluginBase\PluginBase.csproj", "{73CD684B-49C3-48C3-98E5-DF2B8B128743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpersV1", "Helpers\HelpersV1.csproj", "{8AD0933F-EE14-4737-BCAF-EBA969CB8283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpersV2", "HelpersV2\HelpersV2.csproj", "{927C2C27-F49E-433E-AF42-4FD339A2E65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondPlugin", "SecondPlugin\SecondPlugin.csproj", "{59C7F7EF-0CBE-405B-B2EB-3E058C91F89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F5BA2C-8905-463D-B7E0-9AF12368E475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F5BA2C-8905-463D-B7E0-9AF12368E475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F5BA2C-8905-463D-B7E0-9AF12368E475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F5BA2C-8905-463D-B7E0-9AF12368E475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AE700A-194C-4107-ADBC-618CB67F0440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AE700A-194C-4107-ADBC-618CB67F0440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AE700A-194C-4107-ADBC-618CB67F0440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AE700A-194C-4107-ADBC-618CB67F0440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CD684B-49C3-48C3-98E5-DF2B8B128743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CD684B-49C3-48C3-98E5-DF2B8B128743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CD684B-49C3-48C3-98E5-DF2B8B128743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CD684B-49C3-48C3-98E5-DF2B8B128743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD0933F-EE14-4737-BCAF-EBA969CB8283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD0933F-EE14-4737-BCAF-EBA969CB8283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD0933F-EE14-4737-BCAF-EBA969CB8283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD0933F-EE14-4737-BCAF-EBA969CB8283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927C2C27-F49E-433E-AF42-4FD339A2E65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927C2C27-F49E-433E-AF42-4FD339A2E65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927C2C27-F49E-433E-AF42-4FD339A2E65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927C2C27-F49E-433E-AF42-4FD339A2E65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C7F7EF-0CBE-405B-B2EB-3E058C91F89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C7F7EF-0CBE-405B-B2EB-3E058C91F89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C7F7EF-0CBE-405B-B2EB-3E058C91F89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C7F7EF-0CBE-405B-B2EB-3E058C91F89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C002BAD9-6D53-4156-B31E-365283C310E9}
+	EndGlobalSection
+EndGlobal

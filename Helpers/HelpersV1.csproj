@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>Helpers</AssemblyName>
+    <OutputType>library</OutputType>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
